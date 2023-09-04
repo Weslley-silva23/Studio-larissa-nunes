@@ -1,0 +1,102 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Oswald', sans-serif;
+}
+
+header {
+
+    font-size: 35px;
+    text-align: center;
+    font-weight: 120px;
+    margin-bottom: 50px;
+    margin-top: 30px;
+    letter-spacing:6;
+    word-spacing: 55px;
+    cursor: pointer;
+    color: black;
+}
+.botão-WhatsApp {
+
+    border-radius: 30px;
+    font-size: 30px;
+    letter-spacing: 1px;
+    font-weight: 500;
+    line-height: normal;
+    cursor: pointer;
+    width:200px;
+    background-color: green;
+    color: aliceblue;
+    border: none;
+}
+ button:hover {
+    opacity: 0.8;
+ }
+ button:active {
+    opacity: 0.4;
+ }
+
+
+
+ h1{
+   text-align: center;
+   font-size: 50px;
+   font-weight: 900;
+   color: #161A49;
+   line-height: 62px;
+ }
+
+ .button-agende {
+
+    border-radius: 30px;
+    font-size: 50px;
+    cursor: pointer;
+    border: none;
+    color:aliceblue;
+    background-color:midnightblue;
+    margin-left: 620px;
+    line-height: normal;
+    letter-spacing: 1px;
+    font-weight: 600;
+    display: inline-block;
+    width: 800px;
+    
+
+ }
+
+ h3 {
+
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 55px;
+    text-align: center;
+    color:  #161A49;
+ }
+
+
+ .foto-2 { 
+
+    height: 572px;
+    width: 600px;
+    opacity: 0.9;
+    border-radius: 20px;
+   
+    
+    }
+    .foto-1 {
+        height: 572px;
+        width: 600px;
+        opacity: 0.9;
+        border-radius: 20px;
+    }
+
+    .logo-image { 
+
+        height: 572px;
+        width: 816px;
+        border-radius: 20px;
+        
+    }
+
+
