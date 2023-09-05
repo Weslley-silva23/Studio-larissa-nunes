@@ -5,3 +5,5 @@
 <br>
 <h2>Esse foi um projeto que aprendi as ferramentas necessarias no <a href="https://rodolfomori.com.br/devclub"> Devclub<a/></h2>
 
+<img src="https://github.com/Weslley-silva23/Studio-larissa-nunes/blob/main/assets/foto-logo.jpg?raw=true"/>
+
